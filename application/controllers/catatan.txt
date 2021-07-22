@@ -1,0 +1,4 @@
+jika status bayar=0 maka baru di order
+jika status bayar 1 maka diproses
+jika 2 status dikirim
+jika 3 status nya selesai
